@@ -1,5 +1,9 @@
 # GTA VI Trophy Rarity Forecast
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/syahruldyh/gta6-trophy-rarity-forecast-01-entry/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/syahruldyh/gta6-trophy-rarity-forecast-01-entry/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecasts, for each of GTA VI's 55 trophies, the distribution of its earn
 rate (percent of tracked players who have earned it) at a future target
 time. The program (`main.py`, Python 3, standard library only) reads every
@@ -28,6 +32,6 @@ trophy's earn rate at the target.
 
 ## Competition
 
-https://make.fun/competitions/gta6-trophy-rarity-forecast-01
+https://make.fun/bounty/gta6-trophy-rarity-forecast-01
 
 makefun anchor d3ff87be407dbe82b5ae7c568d5afbaeda186e5d round 34151294
